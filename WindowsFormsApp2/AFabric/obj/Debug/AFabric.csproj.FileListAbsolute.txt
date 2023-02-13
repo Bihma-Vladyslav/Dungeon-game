@@ -1,0 +1,5 @@
+D:\Visual Studio расположение\source\repos\WindowsFormsApp2\AFabric\bin\Debug\AFabric.dll
+D:\Visual Studio расположение\source\repos\WindowsFormsApp2\AFabric\bin\Debug\AFabric.pdb
+D:\Visual Studio расположение\source\repos\WindowsFormsApp2\AFabric\obj\Debug\AFabric.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\WindowsFormsApp2\AFabric\obj\Debug\AFabric.dll
+D:\Visual Studio расположение\source\repos\WindowsFormsApp2\AFabric\obj\Debug\AFabric.pdb
